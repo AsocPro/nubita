@@ -10,4 +10,18 @@ It will likely start as a bunch of shell scripts and expand from there into who 
 
 ## Features
 
-These are the planned and current features of nubita. 
+These are the planned and current features of nubita.
+
+### Current Features
+
+ - A readme file with hopes and aspirations. 
+
+### Planned Features
+
+ - Manage containerized applications
+ - Check for updates for containerized applications
+ - Easily access release notes for updated applications to easily check fornbreaking changes. 
+
+## System Requirements
+
+Some program to read this text file with. vim is optimal but cat or less will do just fine as well.  
