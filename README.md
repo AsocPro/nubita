@@ -27,6 +27,7 @@ These are the planned and current features of nubita.
 
 ### Planned Future Features
 
+ - Initialization script to easily install nubita over the network from a separate computer
  - Local code and binary repository hosting. Gitea probably
  - NetBoot.xyz server to easily install other systems 
  - SaltStack master for orchestration and config management 
