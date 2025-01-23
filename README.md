@@ -13,7 +13,7 @@ I would love to say that nubita is non opinionated and plays well with everythin
 
 ## Architecture
 
-nubita is based around the idea that in the case of a disaster you should be able to spin up a single computer (such as a Raspberry Pi) and use that as a jumping ground to be able to bootstrap and configure the rest of a home infrastructure as well as keep it configured properly and up to date throughout normal day to day usage. 
+nubita is based around the idea that in the case of a disaster or a new project (potentially a disaster for your wallet) you should be able to spin up a single computer (such as a Raspberry Pi) and use that as a jumping ground to be able to bootstrap and configure the rest of a home infrastructure as well as keep it configured properly and up to date throughout normal day to day usage. 
 
 nubita aims not to reinvent the wheel but to be more of a centralized duck tape and bailing wire dispenser pulling many great projects together into one semi coherent ecosystem. 
 
